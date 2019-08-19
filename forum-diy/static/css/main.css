@@ -1,0 +1,181 @@
+/*
+That's the main SCSS file
+
+For the file watcher, please remember to include --style compressed in the arguments
+
+ */
+@import url("https://fonts.googleapis.com/css?family=Lato");
+body {
+  background: #f1f1f1;
+  font-family: "Lato", sans-serif;
+}
+
+.navbar-color {
+  background-color: #00897B;
+  color: #f1f1f1;
+}
+
+.navbar-brand img {
+  width: 120px;
+}
+
+p#login-error {
+  padding: 5px;
+  margin-bottom: 2px;
+  display: none;
+}
+
+.login-form {
+  margin-right: unset !important;
+}
+
+.login-form input {
+  margin-bottom: 3px;
+}
+
+.btn-login {
+  background-color: transparent;
+  border: 1px solid white;
+  color: #f1f1f1;
+  margin-right: 5px;
+}
+
+.btn-logout {
+  background-color: white;
+}
+
+.btn-signup {
+  color: #00897B;
+  background-color: white;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+span#sign-up {
+  color: black;
+  text-decoration: none;
+}
+
+span#sign-up:hover {
+  color: black;
+}
+
+.search {
+  padding: 80px 0 80px 0;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.btn-secondary {
+  background-color: #2c3e50;
+}
+
+.horizontal-line {
+  height: 1 px;
+  padding-bottom: 24px;
+  margin: 0px;
+}
+
+.cards-container {
+  padding: 36px 0 48px 0;
+}
+
+.card-1 {
+  background: #fff;
+  border-radius: 5px;
+  height: 250px;
+  margin: 1rem;
+  width: 300px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-line-pack: end;
+      align-content: flex-end;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 16px;
+  -webkit-box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.25);
+  font-size: 16px;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.card-1:hover {
+  -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+          box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.img-container {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.card-img {
+  margin: 0 auto;
+  width: 80px;
+}
+
+.card-body h4 {
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.card-body h4:hover {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.card-body p {
+  color: #6e6e6e;
+  font-size: 14px;
+}
+
+.cat1-line {
+  background-color: #ffaa00;
+}
+
+.cat1-text {
+  color: #ffaa00;
+}
+
+.cat2-line {
+  background-color: #1a486f;
+}
+
+.cat2-text {
+  color: #1a486f;
+}
+
+.cat3-line {
+  background-color: #409789;
+}
+
+.cat3-text {
+  color: #409789;
+}
+
+.footer-social {
+  background-color: #2c3e50;
+}
+
+footer ul {
+  padding-left: 0;
+}
+
+footer ul li {
+  list-style: none;
+}
+/*# sourceMappingURL=main.css.map */

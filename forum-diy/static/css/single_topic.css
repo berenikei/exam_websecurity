@@ -1,0 +1,22 @@
+.card {
+  width: unset !important;
+  height: unset !important;
+  margin: 1rem 0 1rem 0;
+}
+
+.comment .btn {
+  font-size: 0.8rem !important;
+  margin: 5px !important;
+}
+
+blockquote {
+  font-style: italic;
+  border-left: solid 2px black;
+  padding-left: 10px;
+}
+
+.avatar {
+  width: 25px;
+  height: 25px;
+}
+/*# sourceMappingURL=single_topic.css.map */

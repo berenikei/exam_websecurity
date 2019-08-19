@@ -1,0 +1,189 @@
+/*
+That's the main SCSS file
+
+For the file watcher, please remember to include --style compressed in the arguments
+
+ */
+//fonts
+@import url('https://fonts.googleapis.com/css?family=Lato');
+$lato: 'Lato', sans-serif;
+
+// Our colors
+$offWhite: #f1f1f1;
+$grey: #6e6e6e;
+$teal: #009688;
+$teal400: #26A69A;
+$teal600: #00897B;
+$darkBlue: #2c3e50;
+
+$cat1: rgb(255, 170, 0);
+$cat2:  rgb(26, 72, 111);
+$cat3: rgb(64, 151, 137);
+$primary: $teal600  ;
+$secondary: $darkBlue;
+
+
+
+
+body {
+  background: $offWhite;
+  font-family: $lato;
+  
+}
+
+.navbar-color{
+  background-color: $primary;
+  color: $offWhite;
+}
+
+.navbar-brand img{
+  width: 120px;
+}
+
+
+p#login-error{
+  padding:5px;
+  margin-bottom: 2px;
+  display: none; 
+}
+.login-form {
+  margin-right: unset !important;
+  input{
+    margin-bottom: 3px;
+  }
+}
+
+.btn-login{
+  background-color: transparent;
+  border: 1px solid white;
+  color: $offWhite;
+  margin-right: 5px;
+}
+
+.btn-logout{
+  background-color: white;
+}
+.btn-signup{
+  color: $primary;
+  background-color: white;
+}
+a{
+  color: black;
+}
+a:hover{
+  color: black;
+}
+span#sign-up{
+  color: black;
+  text-decoration: none;
+}
+span#sign-up:hover{
+  color: black;
+}
+
+
+.search {
+  padding: 80px 0 80px 0;
+  justify-content: center;
+ display: inline-flex;
+}
+
+.btn-secondary{
+  background-color: $darkBlue;
+}
+
+.horizontal-line {
+  height: 1 px;
+  padding-bottom: 24px;
+  margin: 0px;
+  
+}
+// Category card box
+.cards-container{
+  padding: 36px 0 48px 0;
+
+}
+
+.card-1 {
+  background: #fff;
+  border-radius: 5px;
+  height: 250px;
+  margin: 1rem;
+  width: 300px;
+  display:flex;
+  align-content: flex-end;
+  justify-content: center;
+  padding: 16px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.25);
+  font-size: 16px;
+  transition: .3s;
+  &:hover{
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  }
+}
+
+  .img-container{
+    text-align: center;
+    padding-top:20px;
+  }
+  .card-img {
+  margin: 0 auto;
+  width: 80px;
+  }
+
+  .card-body h4{
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    &:hover{
+      cursor: pointer;
+      text-decoration: none;
+    }
+  }
+
+  .card-body p{
+    color: $grey;
+    font-size: 14px;
+  }
+
+//category 1 coloring 
+.cat1-line{
+    background-color: $cat1;
+  }
+.cat1-text{
+    color: $cat1;
+  }
+
+//category 2 
+.cat2-line{
+  background-color: $cat2;
+}
+.cat2-text{
+  color: $cat2;
+}
+
+//category3
+.cat3-line{
+  background-color: $cat3;
+}
+
+.cat3-text{
+  color: $cat3;
+}
+
+
+
+
+// Footer
+.footer-social{
+  background-color: $secondary;
+}
+footer {
+
+  ul {
+    padding-left: 0;
+  }
+  ul li{
+    list-style: none;
+  }
+}

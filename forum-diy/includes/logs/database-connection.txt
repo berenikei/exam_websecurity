@@ -1,0 +1,529 @@
+{"DATE":2019-08-17, "TIME": 05:27:44pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-17, "TIME": 05:28:14pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-17, "TIME": 05:28:44pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-17, "TIME": 05:29:14pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-17, "TIME": 05:30:18pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-17, "TIME": 05:34:22pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:14:02pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:18:41pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:22:19pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:22:49pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:24:47pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/User_Controller.php(72): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(37): User_Controller::create_user()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(38): Route::set('create-user', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:25:18pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/User_Controller.php(72): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(37): User_Controller::create_user()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(38): Route::set('create-user', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:25:48pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/User_Controller.php(72): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(37): User_Controller::create_user()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(38): Route::set('create-user', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:26:19pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/User_Controller.php(72): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(37): User_Controller::create_user()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(38): Route::set('create-user', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:26:49pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/User_Controller.php(72): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(37): User_Controller::create_user()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(38): Route::set('create-user', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:27:20pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/User_Controller.php(72): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(37): User_Controller::create_user()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(38): Route::set('create-user', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:27:50pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/User_Controller.php(72): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(37): User_Controller::create_user()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(38): Route::set('create-user', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:28:21pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/User_Controller.php(72): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(37): User_Controller::create_user()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(38): Route::set('create-user', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:28:51pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/User_Controller.php(72): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(37): User_Controller::create_user()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(38): Route::set('create-user', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:29:22pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/User_Controller.php(72): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(37): User_Controller::create_user()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(38): Route::set('create-user', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:30:07pm , "Error": PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=DBHO...', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=DBHO...', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:31:14pm , "Error": PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=DBHO...', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=DBHO...', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 01:31:48pm , "Error": PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=DBHO...', '', '', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=DBHO...', '', '', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:03:05pm , "Error": PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=DBHO...', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=DBHO...', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:03:54pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:04:26pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:05:18pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=165....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(31): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#3 /Applications/MAMP/htdocs/forum-diy/includes/models/Topics.php(4): __autoload('Model')
+#4 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): __autoload('Topics')
+#6 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#7 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#8 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#9 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#10 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#11 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:10:27pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=5.7....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(31): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#3 /Applications/MAMP/htdocs/forum-diy/includes/models/Topics.php(4): __autoload('Model')
+#4 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): __autoload('Topics')
+#6 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#7 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#8 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#9 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#10 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#11 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:11:02pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=5.7....', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(31): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#3 /Applications/MAMP/htdocs/forum-diy/includes/models/Topics.php(4): __autoload('Model')
+#4 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): __autoload('Topics')
+#6 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#7 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#8 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#9 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#10 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#11 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:12:08pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(31): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#3 /Applications/MAMP/htdocs/forum-diy/includes/models/Topics.php(4): __autoload('Model')
+#4 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): __autoload('Topics')
+#6 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#7 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#8 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#9 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#10 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#11 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:18:56pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'root', 'root', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(31): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#3 /Applications/MAMP/htdocs/forum-diy/includes/models/Topics.php(4): __autoload('Model')
+#4 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): __autoload('Topics')
+#6 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#7 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#8 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#9 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#10 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#11 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:19:20pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(31): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#3 /Applications/MAMP/htdocs/forum-diy/includes/models/Topics.php(4): __autoload('Model')
+#4 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): __autoload('Topics')
+#6 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#7 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#8 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#9 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#10 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#11 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:19:25pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(31): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#3 /Applications/MAMP/htdocs/forum-diy/includes/models/Topics.php(4): __autoload('Model')
+#4 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): __autoload('Topics')
+#6 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#7 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#8 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#9 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#10 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#11 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:22:32pm , "Error": PDOException: SQLSTATE[HY000] [2002] Operation timed out in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=192....', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(31): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#3 /Applications/MAMP/htdocs/forum-diy/includes/models/Topics.php(4): __autoload('Model')
+#4 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): __autoload('Topics')
+#6 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#7 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#8 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#9 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#10 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#11 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:22:49pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(31): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#3 /Applications/MAMP/htdocs/forum-diy/includes/models/Topics.php(4): __autoload('Model')
+#4 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): __autoload('Topics')
+#6 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#7 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#8 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#9 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#10 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#11 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:26:44pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(31): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#3 /Applications/MAMP/htdocs/forum-diy/includes/models/Topics.php(4): __autoload('Model')
+#4 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): __autoload('Topics')
+#6 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#7 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#8 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#9 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#10 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#11 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:31:21pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(31): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#3 /Applications/MAMP/htdocs/forum-diy/includes/models/Topics.php(4): __autoload('Model')
+#4 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): __autoload('Topics')
+#6 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#7 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#8 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#9 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#10 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#11 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:36:06pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(31): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#3 /Applications/MAMP/htdocs/forum-diy/includes/models/Topics.php(4): __autoload('Model')
+#4 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): __autoload('Topics')
+#6 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#7 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#8 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#9 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#10 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#11 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:37:46pm , "Error": PDOException: SQLSTATE[HY000] [2002] Connection refused in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=192....', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(31): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#3 /Applications/MAMP/htdocs/forum-diy/includes/models/Topics.php(4): __autoload('Model')
+#4 /Applications/MAMP/htdocs/forum-diy/index.php(6): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): __autoload('Topics')
+#6 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#7 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#8 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#9 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#10 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#11 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:40:00pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:40:41pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'remote_user', 'bjY4&5Fc2Un!')
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:44:21pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:48:52pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:51:45pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:55:07pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/User_Controller.php(72): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(37): User_Controller::create_user()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(38): Route::set('create-user', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 02:55:10pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/User_Controller.php(72): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(37): User_Controller::create_user()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(38): Route::set('create-user', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-18, "TIME": 05:21:53pm , "Error": PDOException: SQLSTATE[HY000] [2002] No route to host in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=3306...', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}{"DATE":2019-08-19, "TIME": 08:52:39am , "Error": PDOException: SQLSTATE[HY000] [1045] Access denied for user 'remote_user'@'localhost' (using password: YES) in /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/forum-diy/includes/models/Model.php(22): PDO->__construct('mysql:host=loca...', 'remote_user', 'bjY4&5Fc2Un!', Array)
+#1 /Applications/MAMP/htdocs/forum-diy/includes/controllers/Category.php(17): Model->__construct()
+#2 /Applications/MAMP/htdocs/forum-diy/routes.php(24): Category::getCategory()
+#3 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): {closure}()
+#4 /Applications/MAMP/htdocs/forum-diy/includes/classes/Route.php(16): Closure->__invoke()
+#5 /Applications/MAMP/htdocs/forum-diy/routes.php(25): Route::set('category', Object(Closure))
+#6 /Applications/MAMP/htdocs/forum-diy/index.php(17): require_once('/Applications/M...')
+#7 {main}, "line": 11}
